@@ -1,6 +1,6 @@
 {
   "name": "storybook-addon-chat",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Storybook addon for team communication",
   "keywords": [
     "storybook",
