@@ -12,6 +12,14 @@ const preview: Preview = {
         date: /Date$/,
       },
     },
+    chat: {
+      apiKey: 'AIzaSyDzhLFbMB3qJdCfIhI-BczAfZlID-xizwg',
+      authDomain: 'dv-storybook-comments.firebaseapp.com',
+      databaseURL: 'https://dv-storybook-comments-default-rtdb.europe-west1.firebasedatabase.app/',
+      projectId: 'dv-storybook-comments',
+      storageBucket: 'dv-storybook-comments.appspot.com',
+      messagingSenderId: '447426488068',
+    }
   },
 };
 
