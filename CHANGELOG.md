@@ -1,3 +1,15 @@
+# v0.0.6 (Mon Sep 04 2023)
+
+#### ⚠️ Pushed to `main`
+
+- MVP: remove decorators ([@Vusluk](https://github.com/Vusluk))
+
+#### Authors: 1
+
+- Stanislav Dubrovsky ([@Vusluk](https://github.com/Vusluk))
+
+---
+
 # v0.0.5 (Thu Aug 31 2023)
 
 #### ⚠️ Pushed to `main`
